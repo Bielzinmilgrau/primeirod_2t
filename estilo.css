@@ -1,10 +1,15 @@
 body{
-  background:#FFFFFF
+  background: #111111;
 }
 h1{
-  background-color: white
   text-align: center;
+  color: red;
 }
-h2{
-  background:yellow
+.Caixa1{
+  background: red;
+  color: black;
+  width: 200px;
+  height: 200px;
+  right: 50;
+  top: 50;
 }
